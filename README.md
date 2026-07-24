@@ -87,7 +87,8 @@ SerDes-communication-protocol-on-seven-segment-display/
 
 ## Simulation
 
-![Waveform](Simulation/waveform.png)
+(<img width="982" height="549" alt="image" src="https://github.com/user-attachments/assets/77dadc1a-c1f0-47eb-a7ef-a1d2c7a7d3df" />
+)
 
 Simulation was performed using the Xilinx Vivado simulator with a dedicated testbench (`testbench.v`) to verify correct serialization and deserialization timing, bit ordering, and data integrity.
 
@@ -134,6 +135,3 @@ Simulation was performed using the Xilinx Vivado simulator with a dedicated test
 B.Tech, Electronics and Communication Engineering
 2027 Graduate
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
