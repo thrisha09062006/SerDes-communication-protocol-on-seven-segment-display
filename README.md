@@ -96,7 +96,8 @@ Simulation was performed using the Xilinx Vivado simulator with a dedicated test
 
 ## Output
 
-![Output](<img width="960" height="1280" alt="pic" src="https://github.com/user-attachments/assets/542d74db-698c-4db3-b20a-91d55e1f10ef" />
+(<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/85e521b0-c94c-4616-992f-a56e160c0268" />
+
 )
 
 - The **Serializer** successfully converts parallel input data into serial format.
